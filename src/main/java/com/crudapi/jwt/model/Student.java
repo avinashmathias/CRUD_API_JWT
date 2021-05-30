@@ -1,4 +1,4 @@
-package com.crudapi.jwt.entity;
+package com.crudapi.jwt.model;
 
 
 import javax.persistence.Entity;
